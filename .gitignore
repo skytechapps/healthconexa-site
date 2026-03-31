@@ -97,7 +97,6 @@ static.config.js
 
 # Gatsby files
 .cache/
-public
 
 # vue-cli build output
 dist/
