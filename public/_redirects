@@ -4,6 +4,8 @@
 /icons.svg      /icons.svg      200
 /robots.txt     /robots.txt     200
 /sitemap.xml    /sitemap.xml    200
-/privacy.html   /privacy.html   200
+/privacy.html          /privacy.html          200
+/privacy-buyornot.html /privacy-buyornot.html 200
+/privacy-buyornot      /privacy-buyornot.html 200
 /app-ads.txt    /app-ads.txt    200
 /*              /index.html     200
